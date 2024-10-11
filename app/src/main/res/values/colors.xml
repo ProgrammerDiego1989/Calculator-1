@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Create black color -->
+    <color name="black">#FF000000</color>
+    <!--Create white color  -->
+    <color name="white">#FFFFFFFF</color>
+    <!--Create color for C -->
+    <color name="C">#CA2D2D</color>
+    <!--Create color for AC -->
+    <color name="AC">#673AB7</color>
+    <!--Create color for operators -->
+    <color name="operators">#7F40A2</color>
+    <!--Create color for numbers -->
+    <color name="Numbers">#FFFFFF</color>
+    <!--Create color for background -->
+    <color name="Background">#A6A6A6</color>
+    <!--Create color for background numbers -->
+    <color name="Numbers_Background">#6ACDE0</color>
+
+</resources>
